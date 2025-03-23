@@ -1,0 +1,14 @@
+C:\Users\xparc\RiderProjects\APD\APD\bin\Debug\net8.0\APD.exe
+C:\Users\xparc\RiderProjects\APD\APD\bin\Debug\net8.0\APD.deps.json
+C:\Users\xparc\RiderProjects\APD\APD\bin\Debug\net8.0\APD.runtimeconfig.json
+C:\Users\xparc\RiderProjects\APD\APD\bin\Debug\net8.0\APD.dll
+C:\Users\xparc\RiderProjects\APD\APD\bin\Debug\net8.0\APD.pdb
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.AssemblyInfoInputs.cache
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.AssemblyInfo.cs
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.csproj.CoreCompileInputs.cache
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.dll
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\refint\APD.dll
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.pdb
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\APD.genruntimeconfig.cache
+C:\Users\xparc\RiderProjects\APD\APD\obj\Debug\net8.0\ref\APD.dll
